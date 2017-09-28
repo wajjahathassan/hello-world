@@ -1,2 +1,3 @@
 # hello-world
 My first repository...
+I'm Wajahat Hassan, 22 years of age doing Bachelors in Electrical Engineering.
